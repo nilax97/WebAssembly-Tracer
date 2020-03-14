@@ -1,0 +1,1570 @@
+2mm_00.html
+
+branch: 15014987
+dummy: 75225966
+f64.add: 14706000
+f64.convert_i32_s: 318200
+f64.div: 159100
+f64.mul: 21927600
+i32.add: 103763585
+i32.and: 159291
+i32.eq: 242
+i32.eqz: 15014996
+i32.ge_s: 20
+i32.gt_s: 2
+i32.gt_u: 74
+i32.le_u: 4
+i32.lt_s: 15014946
+i32.lt_u: 55
+i32.mul: 44510005
+i32.ne: 10
+i32.or: 105
+i32.rem_s: 159100
+i32.shl: 44350950
+i32.shr_u: 47
+i32.sub: 69
+i32.wrap_i64: 5
+i32.xor: 8
+load: 44157892
+register: 988137124
+stack: 104032707
+store: 14939203
+
+Total: 1501592293
+
+17: {count: 2, type: "function"}
+21: {count: 5, type: "function"}
+22: {count: 10, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 322013, type: "function"}
+25: {count: 29782807, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 139, type: "function"}
+66: {count: 88, type: "function"}
+67: {count: 54, type: "function"}
+68: {count: 49, type: "function"}
+69: {count: 25, type: "function"}
+70: {count: 6, type: "function"}
+71: {count: 6, type: "function"}
+
+3mm_00.html
+
+branch: 23188546
+dummy: 116170859
+f64.add: 22800000
+f64.convert_i32_s: 324000
+f64.div: 162000
+f64.mul: 22800000
+i32.add: 160549700
+i32.and: 162269
+i32.eq: 342
+i32.eqz: 23188557
+i32.ge_s: 26
+i32.gt_s: 2
+i32.gt_u: 104
+i32.le_u: 6
+i32.lt_s: 23188487
+i32.lt_u: 77
+i32.mul: 68997907
+i32.ne: 14
+i32.or: 149
+i32.rem_s: 162000
+i32.shl: 68673972
+i32.shr_u: 69
+i32.sub: 97
+i32.wrap_i64: 7
+i32.xor: 10
+load: 68400410
+register: 1471780572
+stack: 161100038
+store: 23074295
+
+Total: 2254724515
+
+17: {count: 2, type: "function"}
+21: {count: 7, type: "function"}
+22: {count: 14, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 327963, type: "function"}
+25: {count: 46162260, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 197, type: "function"}
+66: {count: 128, type: "function"}
+67: {count: 78, type: "function"}
+68: {count: 69, type: "function"}
+69: {count: 35, type: "function"}
+70: {count: 8, type: "function"}
+71: {count: 8, type: "function"}
+
+adi_00.html
+
+branch: 556034
+dummy: 2799965
+f64.add: 1345602
+f64.convert_i32_s: 7203
+f64.div: 541847
+f64.mul: 2152964
+f64.neg: 538242
+f64.sub: 538240
+i32.add: 7582706
+i32.and: 152
+i32.eq: 192
+i32.eqz: 556042
+i32.ge_s: 273777
+i32.gt_s: 2
+i32.gt_u: 59
+i32.le_s: 41
+i32.le_u: 3
+i32.lt_s: 282201
+i32.lt_u: 44
+i32.mul: 3251604
+i32.ne: 8
+i32.or: 83
+i32.shl: 3242359
+i32.shr_u: 36
+i32.sub: 1367895
+i32.wrap_i64: 4
+i32.xor: 7
+load: 2426950
+register: 75402473
+stack: 9774801
+store: 829774
+
+Total: 113471310
+
+17: {count: 2, type: "function"}
+21: {count: 4, type: "function"}
+22: {count: 8, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 7504, type: "function"}
+25: {count: 1113924, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 110, type: "function"}
+66: {count: 68, type: "function"}
+67: {count: 42, type: "function"}
+68: {count: 39, type: "function"}
+69: {count: 20, type: "function"}
+70: {count: 5, type: "function"}
+71: {count: 5, type: "function"}
+
+atax_00.html
+
+branch: 11983736
+dummy: 59931044
+f64.add: 7982100
+f64.convert_i32_s: 7982101
+f64.div: 3992100
+f64.mul: 7980000
+i32.add: 63854451
+i32.and: 3990140
+i32.eq: 193
+i32.eqz: 11983744
+i32.ge_s: 17
+i32.gt_s: 2
+i32.gt_u: 59
+i32.le_u: 3
+i32.lt_s: 11983704
+i32.lt_u: 44
+i32.mul: 15960004
+i32.ne: 8
+i32.or: 74
+i32.rem_s: 3990000
+i32.shl: 35916127
+i32.shr_u: 21
+i32.sub: 52
+i32.wrap_i64: 4
+i32.xor: 7
+load: 23940230
+register: 690511293
+stack: 67856976
+store: 11976354
+
+Total: 1041814588
+
+17: {count: 2, type: "function"}
+21: {count: 4, type: "function"}
+22: {count: 8, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 7993707, type: "function"}
+25: {count: 15979407, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 110, type: "function"}
+66: {count: 68, type: "function"}
+67: {count: 42, type: "function"}
+68: {count: 39, type: "function"}
+69: {count: 20, type: "function"}
+70: {count: 6, type: "function"}
+71: {count: 5, type: "function"}
+
+bicg_00.html
+
+branch: 7992245
+dummy: 39970838
+f64.add: 7980000
+f64.convert_i32_s: 7988000
+f64.div: 3994000
+f64.mul: 7980000
+i32.add: 59866457
+i32.and: 3994176
+i32.eq: 247
+i32.eqz: 7992255
+i32.ge_s: 20
+i32.gt_s: 2
+i32.gt_u: 74
+i32.le_u: 4
+i32.lt_s: 7992204
+i32.lt_u: 55
+i32.mul: 15960005
+i32.ne: 10
+i32.or: 96
+i32.rem_s: 3994000
+i32.shl: 35918032
+i32.shr_u: 27
+i32.sub: 66
+i32.wrap_i64: 5
+i32.xor: 6
+load: 23940296
+register: 634696863
+stack: 63869522
+store: 11978307
+
+Total: 946107812
+
+17: {count: 2, type: "function"}
+21: {count: 5, type: "function"}
+22: {count: 10, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 7994307, type: "function"}
+25: {count: 7994307, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 139, type: "function"}
+66: {count: 88, type: "function"}
+67: {count: 60, type: "function"}
+68: {count: 50, type: "function"}
+69: {count: 25, type: "function"}
+70: {count: 7, type: "function"}
+71: {count: 6, type: "function"}
+
+correlation_00.html
+
+branch: 7766271
+dummy: 38892836
+f64.add: 7644000
+f64.convert_i32_s: 124800
+f64.div: 125280
+f64.le: 240
+f64.mul: 7581600
+f64.sqrt: 62640
+f64.sub: 187200
+i32.add: 53775637
+i32.and: 146
+i32.eq: 183
+i32.eqz: 7766281
+i32.ge_s: 17
+i32.gt_s: 2
+i32.gt_u: 52
+i32.le_u: 2
+i32.lt_s: 7766243
+i32.lt_u: 43
+i32.mul: 22893484
+i32.ne: 8
+i32.or: 85
+i32.shl: 23207677
+i32.shr_u: 36
+i32.sub: 294
+i32.wrap_i64: 4
+i32.xor: 5
+load: 23086898
+register: 494419198
+stack: 53960999
+store: 7828092
+
+Total: 757090253
+
+17: {count: 2, type: "function"}
+21: {count: 4, type: "function"}
+22: {count: 8, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 126104, type: "function"}
+25: {count: 15436548, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 87, type: "function"}
+66: {count: 68, type: "function"}
+67: {count: 48, type: "function"}
+68: {count: 40, type: "function"}
+69: {count: 20, type: "function"}
+70: {count: 4, type: "function"}
+71: {count: 4, type: "function"}
+
+covariance_00.html
+
+branch: 7766267
+dummy: 38891927
+f64.add: 7581600
+f64.convert_i32_s: 124801
+f64.div: 91560
+f64.mul: 7581600
+f64.sub: 91320
+i32.add: 53582841
+i32.and: 114
+i32.eq: 146
+i32.eqz: 7766275
+i32.ge_s: 14
+i32.gt_s: 2
+i32.gt_u: 44
+i32.le_u: 2
+i32.lt_s: 7766244
+i32.lt_u: 33
+i32.mul: 22860483
+i32.ne: 6
+i32.or: 64
+i32.shl: 22985786
+i32.shr_u: 25
+i32.sub: 42
+i32.wrap_i64: 3
+i32.xor: 4
+load: 22865457
+register: 491388741
+stack: 53796522
+store: 7793854
+
+Total: 752935777
+
+17: {count: 2, type: "function"}
+21: {count: 3, type: "function"}
+22: {count: 6, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 126104, type: "function"}
+25: {count: 15436310, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 81, type: "function"}
+66: {count: 48, type: "function"}
+67: {count: 36, type: "function"}
+68: {count: 30, type: "function"}
+69: {count: 15, type: "function"}
+70: {count: 4, type: "function"}
+71: {count: 4, type: "function"}
+
+deriche_00.html
+
+branch: 2428359
+dummy: 12151919
+f32.add: 4838402
+f32.convert_i32_s: 345600
+f32.demote_f64: 9
+f32.div: 345601
+f32.mul: 6220811
+f32.neg: 8
+f32.sub: 4
+f64.promote_f32: 9
+i32.add: 17284940
+i32.and: 345753
+i32.eq: 196
+i32.eqz: 2428368
+i32.ge_s: 692417
+i32.gt_s: 2
+i32.gt_u: 59
+i32.le_u: 3
+i32.lt_s: 1735927
+i32.lt_u: 44
+i32.mul: 7948804
+i32.ne: 8
+i32.or: 86
+i32.rem_s: 345600
+i32.shl: 7257637
+i32.shr_u: 36
+i32.sub: 1256
+i32.wrap_i64: 4
+i32.xor: 5
+load: 4838637
+register: 208516873
+stack: 19373464
+store: 2419461
+
+Total: 299520302
+
+19: {count: 2, type: "function"}
+23: {count: 4, type: "function"}
+24: {count: 8, type: "function"}
+25: {count: 1, type: "function"}
+26: {count: 694804, type: "function"}
+27: {count: 4166419, type: "function"}
+62: {count: 1, type: "function"}
+63: {count: 1, type: "function"}
+64: {count: 9, type: "function"}
+65: {count: 3, type: "function"}
+67: {count: 110, type: "function"}
+68: {count: 68, type: "function"}
+69: {count: 48, type: "function"}
+70: {count: 40, type: "function"}
+71: {count: 20, type: "function"}
+72: {count: 5, type: "function"}
+73: {count: 5, type: "function"}
+
+cholesky_00.html
+
+branch: 147338767
+dummy: 737450813
+f64.add: 125125250
+f64.convert_i32_s: 250500
+f64.div: 250000
+f64.mul: 145833250
+f64.sqrt: 500
+f64.sub: 20833250
+i32.add: 1024462652
+i32.and: 125316
+i32.eq: 82
+i32.eqz: 147338775
+i32.ge_s: 11
+i32.gt_s: 2
+i32.gt_u: 28
+i32.le_s: 125750
+i32.le_u: 1
+i32.lt_s: 147213005
+i32.lt_u: 20
+i32.mul: 438750752
+i32.ne: 4
+i32.or: 34
+i32.rem_s: 125250
+i32.shl: 438750758
+i32.shr_u: 6
+i32.sub: 125276
+i32.wrap_i64: 2
+i32.xor: 3
+load: 437999851
+register: 9372786597
+stack: 1025591815
+store: 146709150
+
+Total: 14357187470
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 252761513, type: "function"}
+25: {count: 42294254, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 16, type: "function"}
+67: {count: 18, type: "function"}
+68: {count: 19, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+doitgen_00.html
+
+branch: 7693942
+dummy: 38722700
+f64.add: 7200000
+f64.convert_i32_s: 247200
+f64.div: 123600
+f64.mul: 7200000
+i32.add: 51855208
+i32.and: 123706
+i32.eq: 129
+i32.eqz: 7693950
+i32.ge_s: 14
+i32.gt_s: 2
+i32.gt_u: 37
+i32.le_u: 1
+i32.lt_s: 7693923
+i32.lt_u: 32
+i32.mul: 22207203
+i32.ne: 6
+i32.or: 60
+i32.rem_s: 123600
+i32.shl: 22083628
+i32.shr_u: 25
+i32.sub: 37
+i32.wrap_i64: 3
+i32.xor: 6
+load: 21720151
+register: 476932965
+stack: 52105536
+store: 7563798
+
+Total: 731291462
+
+17: {count: 2, type: "function"}
+21: {count: 3, type: "function"}
+22: {count: 6, type: "function"}
+23: {count: 15256254, type: "function"}
+24: {count: 1, type: "function"}
+25: {count: 257757, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 58, type: "function"}
+66: {count: 48, type: "function"}
+67: {count: 30, type: "function"}
+68: {count: 29, type: "function"}
+69: {count: 15, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+durbin_00.html
+
+branch: 6007012
+dummy: 30047553
+f64.add: 3999999
+f64.convert_i32_s: 2000
+f64.div: 1999
+f64.mul: 4001998
+f64.neg: 2001
+f64.sub: 1999
+i32.add: 20002169
+i32.and: 73
+i32.eq: 92
+i32.eqz: 6007018
+i32.ge_s: 11
+i32.gt_s: 2
+i32.gt_u: 29
+i32.le_u: 1
+i32.lt_s: 6006998
+i32.lt_u: 22
+i32.mul: 2
+i32.ne: 4
+i32.or: 38
+i32.shl: 13999014
+i32.shr_u: 14
+i32.sub: 7998027
+i32.wrap_i64: 2
+i32.xor: 4
+load: 9997111
+register: 266120939
+stack: 24010609
+store: 4002160
+
+Total: 402208900
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 4004, type: "function"}
+25: {count: 12015993, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 28, type: "function"}
+67: {count: 18, type: "function"}
+68: {count: 19, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+fdtd-2d_00.html
+
+branch: 14504731
+dummy: 72645374
+f64.add: 4756100
+f64.convert_i32_s: 432100
+f64.div: 144000
+f64.mul: 14456100
+f64.sub: 33380300
+i32.add: 157958159
+i32.and: 146
+i32.eq: 183
+i32.eqz: 14504741
+i32.ge_s: 17
+i32.gt_s: 2
+i32.gt_u: 52
+i32.le_u: 2
+i32.lt_s: 14504703
+i32.lt_u: 43
+i32.mul: 66904604
+i32.ne: 8
+i32.or: 85
+i32.shl: 66952737
+i32.shr_u: 36
+i32.sub: 14352052
+i32.wrap_i64: 4
+i32.xor: 5
+load: 52472717
+register: 1333507319
+stack: 186683375
+store: 14480451
+
+Total: 2062640146
+
+17: {count: 2, type: "function"}
+21: {count: 4, type: "function"}
+22: {count: 8, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 97207, type: "function"}
+25: {count: 28972604, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 87, type: "function"}
+66: {count: 68, type: "function"}
+67: {count: 48, type: "function"}
+68: {count: 40, type: "function"}
+69: {count: 20, type: "function"}
+70: {count: 4, type: "function"}
+71: {count: 4, type: "function"}
+
+floyd-warshall_00.html
+
+branch: 8120807
+dummy: 65015722
+i32.add: 99278773
+i32.and: 148605
+i32.eq: 148614
+i32.eqz: 8120812
+i32.ge_s: 8
+i32.gt_s: 2
+i32.gt_u: 14
+i32.lt_s: 16120802
+i32.lt_u: 11
+i32.mul: 41073651
+i32.ne: 2
+i32.or: 15
+i32.rem_s: 148572
+i32.shl: 41033654
+i32.shr_u: 3
+i32.sub: 13
+i32.wrap_i64: 1
+i32.xor: 2
+load: 32982475
+register: 764702624
+stack: 90707858
+store: 8051338
+
+Total: 1175654378
+
+17: {count: 2, type: "function"}
+21: {count: 1, type: "function"}
+22: {count: 2, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 172026, type: "function"}
+25: {count: 24201004, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 23, type: "function"}
+66: {count: 8, type: "function"}
+67: {count: 6, type: "function"}
+68: {count: 9, type: "function"}
+69: {count: 5, type: "function"}
+70: {count: 2, type: "function"}
+71: {count: 2, type: "function"}
+
+gemm_00.html
+
+branch: 134627
+dummy: 679106
+f64.add: 120000
+f64.convert_i32_s: 14800
+f64.div: 7400
+f64.mul: 242000
+i32.add: 876449
+i32.and: 7513
+i32.eq: 142
+i32.eqz: 134634
+i32.ge_s: 14
+i32.gt_s: 2
+i32.gt_u: 44
+i32.le_u: 2
+i32.lt_s: 134604
+i32.lt_u: 33
+i32.mul: 376803
+i32.ne: 6
+i32.or: 61
+i32.rem_s: 7400
+i32.shl: 369428
+i32.shr_u: 25
+i32.sub: 41
+i32.wrap_i64: 3
+i32.xor: 6
+load: 362172
+register: 8786236
+stack: 887072
+store: 129609
+
+Total: 13270232
+
+17: {count: 2, type: "function"}
+21: {count: 3, type: "function"}
+22: {count: 6, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 15510, type: "function"}
+25: {count: 256324, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 81, type: "function"}
+66: {count: 48, type: "function"}
+67: {count: 30, type: "function"}
+68: {count: 29, type: "function"}
+69: {count: 15, type: "function"}
+70: {count: 4, type: "function"}
+71: {count: 4, type: "function"}
+
+gemver_00.html
+
+branch: 16018082
+dummy: 80108516
+f64.add: 16002000
+f64.convert_i32_s: 8012001
+f64.div: 4020000
+f64.mul: 24000000
+i32.add: 96042817
+i32.and: 4000315
+i32.eq: 443
+i32.eqz: 16018095
+i32.ge_s: 32
+i32.gt_s: 2
+i32.gt_u: 134
+i32.le_u: 8
+i32.lt_s: 16018005
+i32.lt_u: 99
+i32.mul: 24000009
+i32.ne: 18
+i32.or: 169
+i32.rem_s: 4000000
+i32.shl: 60022062
+i32.shr_u: 51
+i32.sub: 117
+i32.wrap_i64: 9
+i32.xor: 12
+load: 44004532
+register: 1084559022
+stack: 100066244
+store: 16018491
+
+Total: 1612911285
+
+17: {count: 2, type: "function"}
+21: {count: 9, type: "function"}
+22: {count: 18, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 8010004, type: "function"}
+25: {count: 24034013, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 255, type: "function"}
+66: {count: 168, type: "function"}
+67: {count: 102, type: "function"}
+68: {count: 89, type: "function"}
+69: {count: 45, type: "function"}
+70: {count: 11, type: "function"}
+71: {count: 10, type: "function"}
+
+gesummv_00.html
+
+branch: 3385243
+dummy: 16932603
+f64.add: 3381300
+f64.convert_i32_s: 6762600
+f64.div: 3381300
+f64.mul: 3382600
+i32.add: 27050850
+i32.and: 3381479
+i32.eq: 243
+i32.eqz: 3385252
+i32.ge_s: 20
+i32.gt_s: 2
+i32.gt_u: 74
+i32.le_u: 4
+i32.lt_s: 3385202
+i32.lt_u: 55
+i32.mul: 10140005
+i32.ne: 10
+i32.or: 96
+i32.rem_s: 3381300
+i32.shl: 16907838
+i32.shr_u: 32
+i32.sub: 66
+i32.wrap_i64: 5
+i32.xor: 8
+load: 10142892
+register: 324650136
+stack: 30438222
+store: 6765503
+
+Total: 476854940
+
+17: {count: 2, type: "function"}
+21: {count: 5, type: "function"}
+22: {count: 10, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 3386504, type: "function"}
+25: {count: 3386504, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 139, type: "function"}
+66: {count: 88, type: "function"}
+67: {count: 54, type: "function"}
+68: {count: 49, type: "function"}
+69: {count: 25, type: "function"}
+70: {count: 7, type: "function"}
+71: {count: 6, type: "function"}
+
+gramschmidt_00.html
+
+branch: 11761506
+dummy: 58925320
+f64.add: 5832000
+f64.convert_i32_s: 96000
+f64.div: 96000
+f64.mul: 11568000
+f64.sqrt: 240
+f64.sub: 5736000
+i32.add: 92852521
+i32.and: 48114
+i32.eq: 146
+i32.eqz: 11761514
+i32.ge_s: 14
+i32.gt_s: 2
+i32.gt_u: 44
+i32.le_u: 2
+i32.lt_s: 11761483
+i32.lt_u: 33
+i32.mul: 40622523
+i32.ne: 6
+i32.or: 64
+i32.rem_s: 48000
+i32.shl: 40574546
+i32.shr_u: 25
+i32.sub: 42
+i32.wrap_i64: 3
+i32.xor: 4
+load: 34608176
+register: 814410687
+stack: 93189920
+store: 11702733
+
+Total: 1245595668
+
+17: {count: 2, type: "function"}
+21: {count: 3, type: "function"}
+22: {count: 6, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 213407, type: "function"}
+25: {count: 23368084, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 81, type: "function"}
+66: {count: 48, type: "function"}
+67: {count: 36, type: "function"}
+68: {count: 30, type: "function"}
+69: {count: 15, type: "function"}
+70: {count: 4, type: "function"}
+71: {count: 4, type: "function"}
+
+jacobi-1d_00.html
+
+branch: 2001516
+dummy: 10010079
+f64.add: 4000000
+f64.convert_i32_s: 8000
+f64.div: 4000
+f64.mul: 1998000
+i32.add: 11994672
+i32.and: 73
+i32.eq: 92
+i32.eqz: 2001522
+i32.ge_s: 11
+i32.gt_s: 2
+i32.gt_u: 29
+i32.le_u: 1
+i32.lt_s: 2001502
+i32.lt_u: 22
+i32.mul: 2
+i32.ne: 4
+i32.or: 38
+i32.shl: 7996016
+i32.shr_u: 14
+i32.sub: 3997027
+i32.wrap_i64: 2
+i32.xor: 4
+load: 5994110
+register: 128008021
+stack: 17995117
+store: 2002160
+
+Total: 200012036
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 4004, type: "function"}
+25: {count: 4000004, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 28, type: "function"}
+67: {count: 18, type: "function"}
+68: {count: 19, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+jacobi-2d_00.html
+
+branch: 12463316
+dummy: 62417179
+f64.add: 49328200
+f64.convert_i32_s: 375000
+f64.div: 125000
+f64.mul: 12425800
+i32.add: 184999622
+i32.and: 73
+i32.eq: 92
+i32.eqz: 12463322
+i32.ge_s: 11
+i32.gt_s: 2
+i32.gt_u: 29
+i32.le_u: 1
+i32.lt_s: 12463302
+i32.lt_u: 22
+i32.mul: 73929802
+i32.ne: 4
+i32.or: 38
+i32.shl: 73929816
+i32.shr_u: 14
+i32.sub: 37001827
+i32.wrap_i64: 2
+i32.xor: 4
+load: 61504110
+register: 1507423171
+stack: 234477717
+store: 12425960
+
+Total: 2347753436
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 126254, type: "function"}
+25: {count: 24850404, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 28, type: "function"}
+67: {count: 18, type: "function"}
+68: {count: 19, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+lu_00.html
+
+branch: 10929117
+dummy: 54808863
+f64.add: 8020100
+f64.convert_i32_s: 40200
+f64.div: 40000
+f64.mul: 10646700
+f64.sub: 2646700
+i32.add: 75128252
+i32.and: 20166
+i32.eq: 82
+i32.eqz: 10929125
+i32.ge_s: 11
+i32.gt_s: 2
+i32.gt_u: 28
+i32.le_s: 20300
+i32.le_u: 1
+i32.lt_s: 10908805
+i32.lt_u: 20
+i32.mul: 32140102
+i32.ne: 4
+i32.or: 34
+i32.rem_s: 20100
+i32.shl: 32140108
+i32.shr_u: 6
+i32.sub: 20126
+i32.wrap_i64: 2
+i32.xor: 3
+load: 32020001
+register: 688180247
+stack: 75330065
+store: 10786950
+
+Total: 1054776220
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 16444613, type: "function"}
+25: {count: 5495004, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 16, type: "function"}
+67: {count: 18, type: "function"}
+68: {count: 19, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+ludcmp_00.html
+
+branch: 168549793
+dummy: 843759074
+f64.add: 125125750
+f64.convert_i32_s: 251001
+f64.div: 251500
+f64.mul: 166791250
+f64.sub: 41791250
+i32.add: 1088217674
+i32.and: 125427
+i32.eq: 219
+i32.eqz: 168549805
+i32.ge_s: 521
+i32.gt_s: 2
+i32.gt_u: 66
+i32.le_s: 125750
+i32.le_u: 3
+i32.lt_s: 168423507
+i32.lt_u: 52
+i32.mul: 459958755
+i32.ne: 10
+i32.or: 100
+i32.rem_s: 125250
+i32.shl: 460211792
+i32.shr_u: 39
+i32.sub: 125315
+i32.wrap_i64: 5
+i32.xor: 7
+load: 459209012
+register: 10220311830
+stack: 1089475008
+store: 126003282
+
+Total: 15587383049
+
+17: {count: 2, type: "function"}
+21: {count: 5, type: "function"}
+22: {count: 10, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 252762516, type: "function"}
+25: {count: 84841510, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 116, type: "function"}
+66: {count: 76, type: "function"}
+67: {count: 54, type: "function"}
+68: {count: 49, type: "function"}
+69: {count: 25, type: "function"}
+70: {count: 5, type: "function"}
+71: {count: 5, type: "function"}
+
+heat-3d_00.html
+
+branch: 11634794
+dummy: 58770915
+f64.add: 65846400
+f64.convert_i32_s: 128000
+f64.div: 64000
+f64.mul: 65910400
+f64.sub: 32923200
+i32.add: 406927098
+i32.and: 67
+i32.eq: 78
+i32.eqz: 11634801
+i32.ge_s: 11
+i32.gt_s: 2
+i32.gt_u: 29
+i32.le_s: 101
+i32.le_u: 1
+i32.lt_s: 11634681
+i32.lt_u: 19
+i32.mul: 241692802
+i32.ne: 4
+i32.or: 37
+i32.shl: 120846414
+i32.shr_u: 13
+i32.sub: 44554626
+i32.wrap_i64: 2
+i32.xor: 3
+load: 109744095
+register: 3042100082
+stack: 517498857
+store: 11102555
+
+Total: 4753014087
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 2, type: "function"}
+24: {count: 136204, type: "function"}
+25: {count: 23431604, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 15, type: "function"}
+67: {count: 18, type: "function"}
+68: {count: 19, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+mvt_00.html
+
+branch: 12012044
+dummy: 60073431
+f64.add: 8000000
+f64.convert_i32_s: 8016000
+f64.div: 4008000
+f64.mul: 8000000
+i32.add: 60020457
+i32.and: 4008176
+i32.eq: 247
+i32.eqz: 12012054
+i32.ge_s: 20
+i32.gt_s: 2
+i32.gt_u: 74
+i32.le_u: 4
+i32.lt_s: 12012003
+i32.lt_u: 55
+i32.mul: 16000005
+i32.ne: 10
+i32.or: 96
+i32.rem_s: 4008000
+i32.shl: 36008032
+i32.shr_u: 27
+i32.sub: 66
+i32.wrap_i64: 5
+i32.xor: 6
+load: 24000296
+register: 684355053
+stack: 64035320
+store: 12008307
+
+Total: 1028577790
+
+17: {count: 2, type: "function"}
+21: {count: 5, type: "function"}
+22: {count: 10, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 8010004, type: "function"}
+25: {count: 16020007, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 139, type: "function"}
+66: {count: 88, type: "function"}
+67: {count: 60, type: "function"}
+68: {count: 50, type: "function"}
+69: {count: 25, type: "function"}
+70: {count: 7, type: "function"}
+71: {count: 6, type: "function"}
+
+nussinov_00.html
+
+branch: 21335265
+dummy: 172139301
+i32.add: 274389031
+i32.and: 1063
+i32.eq: 155335
+i32.eqz: 21210523
+i32.ge_s: 21332762
+i32.gt_s: 2
+i32.gt_u: 28
+i32.le_u: 1
+i32.lt_s: 21584252
+i32.lt_u: 20
+i32.mul: 105289502
+i32.ne: 4
+i32.or: 30
+i32.rem_s: 500
+i32.shl: 105600014
+i32.shr_s: 310502
+i32.shr_u: 12
+i32.sub: 777782
+i32.wrap_i64: 2
+i32.xor: 3
+load: 84267348
+register: 2012682105
+stack: 255270709
+store: 21333398
+
+Total: 3117679494
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 503507, type: "function"}
+25: {count: 64029755, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 24, type: "function"}
+67: {count: 12, type: "function"}
+68: {count: 17, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+symm_00.html
+
+branch: 4961426
+dummy: 24905459
+f64.add: 9648000
+f64.convert_i32_s: 232200
+f64.div: 116100
+f64.mul: 14520000
+i32.add: 53445169
+i32.and: 116213
+i32.eq: 142
+i32.eqz: 4961433
+i32.ge_s: 14
+i32.gt_s: 2
+i32.gt_u: 44
+i32.le_s: 20300
+i32.le_u: 2
+i32.lt_s: 4941103
+i32.lt_u: 33
+i32.mul: 24208003
+i32.ne: 6
+i32.or: 61
+i32.rem_s: 116100
+i32.shl: 24208028
+i32.shr_u: 25
+i32.sub: 48041
+i32.wrap_i64: 3
+i32.xor: 6
+load: 24024172
+register: 521585616
+stack: 53678370
+store: 4960209
+
+Total: 770696280
+
+17: {count: 2, type: "function"}
+21: {count: 3, type: "function"}
+22: {count: 6, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 178607, type: "function"}
+25: {count: 9793004, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 81, type: "function"}
+66: {count: 48, type: "function"}
+67: {count: 30, type: "function"}
+68: {count: 29, type: "function"}
+69: {count: 15, type: "function"}
+70: {count: 4, type: "function"}
+71: {count: 4, type: "function"}
+
+seidel-2d_00.html
+
+branch: 16081007
+dummy: 80485908
+f64.add: 126883200
+f64.convert_i32_s: 480000
+f64.div: 16000400
+f64.mul: 160000
+i32.add: 428371176
+i32.and: 33
+i32.eq: 42
+i32.eqz: 16081013
+i32.ge_s: 8
+i32.gt_s: 2
+i32.gt_u: 14
+i32.le_s: 15920201
+i32.lt_s: 160801
+i32.lt_u: 11
+i32.mul: 158564001
+i32.ne: 2
+i32.or: 15
+i32.shl: 158564004
+i32.shr_u: 3
+i32.sub: 110962614
+i32.wrap_i64: 1
+i32.xor: 2
+load: 142563650
+register: 3272209868
+stack: 555374769
+store: 16000513
+
+Total: 5114863258
+
+17: {count: 2, type: "function"}
+21: {count: 1, type: "function"}
+22: {count: 2, type: "function"}
+23: {count: 2, type: "function"}
+24: {count: 322004, type: "function"}
+25: {count: 31880304, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 23, type: "function"}
+66: {count: 8, type: "function"}
+67: {count: 6, type: "function"}
+68: {count: 9, type: "function"}
+69: {count: 5, type: "function"}
+70: {count: 2, type: "function"}
+71: {count: 2, type: "function"}
+
+syr2k_00.html
+
+branch: 11781147
+dummy: 59004386
+f64.add: 23040000
+f64.convert_i32_s: 307200
+f64.div: 153600
+f64.mul: 46137600
+i32.add: 127354829
+i32.and: 153713
+i32.eq: 142
+i32.eqz: 11781154
+i32.ge_s: 14
+i32.gt_s: 2
+i32.gt_u: 44
+i32.le_u: 2
+i32.lt_s: 11781124
+i32.lt_u: 33
+i32.mul: 57964803
+i32.ne: 6
+i32.or: 61
+i32.rem_s: 153600
+i32.shl: 57811228
+i32.shr_u: 25
+i32.sub: 41
+i32.wrap_i64: 3
+i32.xor: 6
+load: 57657772
+register: 1254159605
+stack: 127557991
+store: 11731409
+
+Total: 1858531540
+
+17: {count: 2, type: "function"}
+21: {count: 3, type: "function"}
+22: {count: 6, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 213607, type: "function"}
+25: {count: 23397607, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 81, type: "function"}
+66: {count: 48, type: "function"}
+67: {count: 30, type: "function"}
+68: {count: 29, type: "function"}
+69: {count: 15, type: "function"}
+70: {count: 4, type: "function"}
+71: {count: 4, type: "function"}
+
+syrk_00.html
+
+branch: 219017
+dummy: 1105826
+f64.add: 194400
+f64.convert_i32_s: 22400
+f64.div: 11200
+f64.mul: 392040
+i32.add: 1409333
+i32.and: 11273
+i32.eq: 92
+i32.eqz: 219023
+i32.ge_s: 11
+i32.gt_s: 2
+i32.gt_u: 29
+i32.le_s: 202520
+i32.le_u: 1
+i32.lt_s: 16483
+i32.lt_u: 22
+i32.mul: 608842
+i32.ne: 4
+i32.or: 38
+i32.rem_s: 11200
+i32.shl: 597656
+i32.shr_u: 14
+i32.sub: 27
+i32.wrap_i64: 2
+i32.xor: 4
+load: 586552
+register: 14194501
+stack: 1426101
+store: 209002
+
+Total: 21437615
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 23207, type: "function"}
+25: {count: 419924, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 28, type: "function"}
+67: {count: 18, type: "function"}
+68: {count: 19, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+
+trisolv_00.html
+
+branch: 4008025
+dummy: 20048857
+f64.convert_i32_s: 4004000
+f64.div: 2003000
+f64.mul: 4000000
+f64.sub: 1999000
+i32.add: 20020258
+i32.and: 105
+i32.eq: 143
+i32.eqz: 4008032
+i32.ge_s: 14
+i32.gt_s: 2
+i32.gt_u: 44
+i32.le_s: 2003000
+i32.le_u: 2
+i32.lt_s: 2005002
+i32.lt_u: 33
+i32.mul: 4002003
+i32.ne: 6
+i32.or: 55
+i32.shl: 8012020
+i32.shr_u: 15
+i32.sub: 2001039
+i32.wrap_i64: 3
+i32.xor: 6
+load: 6003170
+register: 214241969
+stack: 20026840
+store: 4008207
+
+Total: 322394850
+
+17: {count: 2, type: "function"}
+21: {count: 3, type: "function"}
+22: {count: 6, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 4012004, type: "function"}
+25: {count: 4008004, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 81, type: "function"}
+66: {count: 48, type: "function"}
+67: {count: 30, type: "function"}
+68: {count: 29, type: "function"}
+69: {count: 15, type: "function"}
+70: {count: 5, type: "function"}
+71: {count: 4, type: "function"}
+
+trmm_00.html
+
+branch: 4940916
+dummy: 24802279
+f64.add: 4776000
+f64.convert_i32_s: 135800
+f64.div: 67900
+f64.mul: 4824000
+i32.add: 33992572
+i32.and: 67973
+i32.eq: 92
+i32.eqz: 4940922
+i32.ge_s: 11
+i32.gt_s: 2
+i32.gt_u: 29
+i32.le_u: 1
+i32.lt_s: 4940902
+i32.lt_u: 22
+i32.mul: 14492102
+i32.ne: 4
+i32.or: 38
+i32.rem_s: 67900
+i32.shl: 14492116
+i32.shr_u: 14
+i32.sub: 48027
+i32.wrap_i64: 2
+i32.xor: 4
+load: 14376111
+register: 312174739
+stack: 33993818
+store: 4892261
+
+Total: 478026557
+
+17: {count: 2, type: "function"}
+21: {count: 2, type: "function"}
+22: {count: 4, type: "function"}
+23: {count: 1, type: "function"}
+24: {count: 137404, type: "function"}
+25: {count: 9793004, type: "function"}
+60: {count: 1, type: "function"}
+61: {count: 1, type: "function"}
+62: {count: 9, type: "function"}
+63: {count: 3, type: "function"}
+65: {count: 52, type: "function"}
+66: {count: 28, type: "function"}
+67: {count: 18, type: "function"}
+68: {count: 19, type: "function"}
+69: {count: 10, type: "function"}
+70: {count: 3, type: "function"}
+71: {count: 3, type: "function"}
+

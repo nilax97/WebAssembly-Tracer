@@ -1,0 +1,12 @@
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk.git
+[submodule "wasabi"]
+	path = wasabi
+	url = https://github.com/danleh/wasabi.git
+[submodule "polybench"]
+	path = polybench
+	url = https://github.com/Meinersbur/polybench.git
+[submodule "pywasm"]
+	path = pywasm
+	url = https://github.com/mohanson/pywasm.git

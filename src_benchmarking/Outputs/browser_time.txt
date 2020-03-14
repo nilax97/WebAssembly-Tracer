@@ -1,0 +1,852 @@
+2mm_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/2mm_time_00.html
+Opening in existing browser session.
+0.064000
+3mm_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/3mm_time_00.html
+Opening in existing browser session.
+0.247000
+atax_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/atax_time_00.html
+Opening in existing browser session.
+0.027000
+bicg_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/bicg_time_00.html
+Opening in existing browser session.
+0.012000
+cholesky_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/cholesky_time_00.html
+Opening in existing browser session.
+0.153000
+doitgen_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/doitgen_time_00.html
+Opening in existing browser session.
+0.022000
+gemm_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gemm_time_00.html
+Opening in existing browser session.
+0.000000
+gemver_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gemver_time_00.html
+Opening in existing browser session.
+0.038000
+gesummv_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gesummv_time_00.html
+Opening in existing browser session.
+0.007000
+mvt_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/mvt_time_00.html
+Opening in existing browser session.
+0.031000
+symm_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/symm_time_00.html
+Opening in existing browser session.
+0.020000
+syr2k_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/syr2k_time_00.html
+Opening in existing browser session.
+0.051000
+syrk_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/syrk_time_00.html
+Opening in existing browser session.
+0.000000
+trisolv_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/trisolv_time_00.html
+Opening in existing browser session.
+0.012000
+trmm_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/trmm_time_00.html
+Opening in existing browser session.
+0.039000
+durbin_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/durbin_time_00.html
+Opening in existing browser session.
+0.007000
+gramschmidt_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gramschmidt_time_00.html
+Opening in existing browser session.
+0.156000
+lu_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/lu_time_00.html
+Opening in existing browser session.
+0.008000
+ludcmp_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/ludcmp_time_00.html
+Opening in existing browser session.
+0.217000
+correlation_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/correlation_time_00.html
+Opening in existing browser session.
+0.031000
+covariance_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/covariance_time_00.html
+Opening in existing browser session.
+0.057000
+floyd-warshall_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/floyd-warshall_time_00.html
+Opening in existing browser session.
+0.021000
+nussinov_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/nussinov_time_00.html
+Opening in existing browser session.
+0.043000
+deriche_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/deriche_time_00.html
+Opening in existing browser session.
+0.012000
+adi_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/adi_time_00.html
+Opening in existing browser session.
+0.004000
+fdtd-2d_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/fdtd-2d_time_00.html
+Opening in existing browser session.
+0.042000
+jacobi-1d_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/jacobi-1d_time_00.html
+Opening in existing browser session.
+0.004000
+jacobi-2d_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/jacobi-2d_time_00.html
+Opening in existing browser session.
+0.037000
+seidel-2d_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/seidel-2d_time_00.html
+Opening in existing browser session.
+0.214000
+heat-3d_time_00.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/heat-3d_time_00.html
+Opening in existing browser session.
+0.064000
+2mm_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/2mm_time_01.html
+Opening in existing browser session.
+0.040000
+3mm_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/3mm_time_01.html
+Opening in existing browser session.
+0.087000
+atax_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/atax_time_01.html
+Opening in existing browser session.
+0.015000
+bicg_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/bicg_time_01.html
+Opening in existing browser session.
+0.013000
+cholesky_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/cholesky_time_01.html
+Opening in existing browser session.
+0.065000
+doitgen_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/doitgen_time_01.html
+Opening in existing browser session.
+0.019000
+gemm_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gemm_time_01.html
+Opening in existing browser session.
+0.000000
+gemver_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gemver_time_01.html
+Opening in existing browser session.
+0.041000
+gesummv_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gesummv_time_01.html
+Opening in existing browser session.
+0.006000
+mvt_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/mvt_time_01.html
+Opening in existing browser session.
+0.037000
+symm_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/symm_time_01.html
+Opening in existing browser session.
+0.011000
+syr2k_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/syr2k_time_01.html
+Opening in existing browser session.
+0.028000
+syrk_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/syrk_time_01.html
+Opening in existing browser session.
+0.001000
+trisolv_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/trisolv_time_01.html
+Opening in existing browser session.
+0.006000
+trmm_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/trmm_time_01.html
+Opening in existing browser session.
+0.013000
+durbin_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/durbin_time_01.html
+Opening in existing browser session.
+0.005000
+gramschmidt_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gramschmidt_time_01.html
+Opening in existing browser session.
+0.029000
+lu_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/lu_time_01.html
+Opening in existing browser session.
+0.009000
+ludcmp_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/ludcmp_time_01.html
+Opening in existing browser session.
+0.053000
+correlation_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/correlation_time_01.html
+Opening in existing browser session.
+0.025000
+covariance_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/covariance_time_01.html
+Opening in existing browser session.
+0.022000
+floyd-warshall_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/floyd-warshall_time_01.html
+Opening in existing browser session.
+0.013000
+nussinov_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/nussinov_time_01.html
+Opening in existing browser session.
+0.031000
+deriche_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/deriche_time_01.html
+Opening in existing browser session.
+0.011000
+adi_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/adi_time_01.html
+Opening in existing browser session.
+0.003000
+fdtd-2d_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/fdtd-2d_time_01.html
+Opening in existing browser session.
+0.020000
+jacobi-1d_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/jacobi-1d_time_01.html
+Opening in existing browser session.
+0.003000
+jacobi-2d_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/jacobi-2d_time_01.html
+Opening in existing browser session.
+0.024000
+seidel-2d_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/seidel-2d_time_01.html
+Opening in existing browser session.
+0.198000
+heat-3d_time_01.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/heat-3d_time_01.html
+Opening in existing browser session.
+0.037000
+2mm_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/2mm_time_02.html
+Opening in existing browser session.
+0.035000
+3mm_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/3mm_time_02.html
+Opening in existing browser session.
+0.031000
+atax_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/atax_time_02.html
+Opening in existing browser session.
+0.011000
+bicg_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/bicg_time_02.html
+Opening in existing browser session.
+0.013000
+cholesky_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/cholesky_time_02.html
+Opening in existing browser session.
+0.035000
+doitgen_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/doitgen_time_02.html
+Opening in existing browser session.
+0.010000
+gemm_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gemm_time_02.html
+Opening in existing browser session.
+0.000000
+gemver_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gemver_time_02.html
+Opening in existing browser session.
+0.032000
+gesummv_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gesummv_time_02.html
+Opening in existing browser session.
+0.006000
+mvt_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/mvt_time_02.html
+Opening in existing browser session.
+0.024000
+symm_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/symm_time_02.html
+Opening in existing browser session.
+0.011000
+syr2k_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/syr2k_time_02.html
+Opening in existing browser session.
+0.031000
+syrk_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/syrk_time_02.html
+Opening in existing browser session.
+0.000000
+trisolv_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/trisolv_time_02.html
+Opening in existing browser session.
+0.003000
+trmm_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/trmm_time_02.html
+Opening in existing browser session.
+0.009000
+durbin_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/durbin_time_02.html
+Opening in existing browser session.
+0.007000
+gramschmidt_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gramschmidt_time_02.html
+Opening in existing browser session.
+0.018000
+lu_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/lu_time_02.html
+Opening in existing browser session.
+0.007000
+ludcmp_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/ludcmp_time_02.html
+Opening in existing browser session.
+0.055000
+correlation_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/correlation_time_02.html
+Opening in existing browser session.
+0.012000
+covariance_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/covariance_time_02.html
+Opening in existing browser session.
+0.015000
+floyd-warshall_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/floyd-warshall_time_02.html
+Opening in existing browser session.
+0.011000
+nussinov_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/nussinov_time_02.html
+Opening in existing browser session.
+0.030000
+deriche_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/deriche_time_02.html
+Opening in existing browser session.
+0.008000
+adi_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/adi_time_02.html
+Opening in existing browser session.
+0.003000
+fdtd-2d_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/fdtd-2d_time_02.html
+Opening in existing browser session.
+0.023000
+jacobi-1d_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/jacobi-1d_time_02.html
+Opening in existing browser session.
+0.003000
+jacobi-2d_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/jacobi-2d_time_02.html
+Opening in existing browser session.
+0.025000
+seidel-2d_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/seidel-2d_time_02.html
+Opening in existing browser session.
+0.196000
+heat-3d_time_02.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/heat-3d_time_02.html
+Opening in existing browser session.
+0.049000
+2mm_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/2mm_time_03.html
+Opening in existing browser session.
+0.022000
+3mm_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/3mm_time_03.html
+Opening in existing browser session.
+0.031000
+atax_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/atax_time_03.html
+Opening in existing browser session.
+0.010000
+bicg_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/bicg_time_03.html
+Opening in existing browser session.
+0.012000
+cholesky_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/cholesky_time_03.html
+Opening in existing browser session.
+0.029000
+doitgen_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/doitgen_time_03.html
+Opening in existing browser session.
+0.011000
+gemm_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gemm_time_03.html
+Opening in existing browser session.
+0.000000
+gemver_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gemver_time_03.html
+Opening in existing browser session.
+0.034000
+gesummv_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gesummv_time_03.html
+Opening in existing browser session.
+0.005000
+mvt_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/mvt_time_03.html
+Opening in existing browser session.
+0.024000
+symm_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/symm_time_03.html
+Opening in existing browser session.
+0.010000
+syr2k_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/syr2k_time_03.html
+Opening in existing browser session.
+0.028000
+syrk_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/syrk_time_03.html
+Opening in existing browser session.
+0.001000
+trisolv_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/trisolv_time_03.html
+Opening in existing browser session.
+0.004000
+trmm_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/trmm_time_03.html
+Opening in existing browser session.
+0.009000
+durbin_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/durbin_time_03.html
+Opening in existing browser session.
+0.007000
+gramschmidt_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/gramschmidt_time_03.html
+Opening in existing browser session.
+0.020000
+lu_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/lu_time_03.html
+Opening in existing browser session.
+0.004000
+ludcmp_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/ludcmp_time_03.html
+Opening in existing browser session.
+0.053000
+correlation_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/correlation_time_03.html
+Opening in existing browser session.
+0.015000
+covariance_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/covariance_time_03.html
+Opening in existing browser session.
+0.012000
+floyd-warshall_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/floyd-warshall_time_03.html
+Opening in existing browser session.
+0.015000
+nussinov_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/nussinov_time_03.html
+Opening in existing browser session.
+0.031000
+deriche_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/deriche_time_03.html
+Opening in existing browser session.
+0.008000
+adi_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/adi_time_03.html
+Opening in existing browser session.
+0.003000
+fdtd-2d_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/fdtd-2d_time_03.html
+Opening in existing browser session.
+0.032000
+jacobi-1d_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/jacobi-1d_time_03.html
+Opening in existing browser session.
+0.003000
+jacobi-2d_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/jacobi-2d_time_03.html
+Opening in existing browser session.
+0.025000
+seidel-2d_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/seidel-2d_time_03.html
+Opening in existing browser session.
+0.198000
+heat-3d_time_03.html_chrome
+Starting browser: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-nacl --enable-pnacl --disable-restore-session-state --enable-webgl --no-default-browser-check --no-first-run --allow-file-access-from-files --incognito http://localhost:6931/heat-3d_time_03.html
+Opening in existing browser session.
+0.036000
+2mm_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8081/2mm_time_00.html
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 59104)
+----------------------------------------
+0.125000
+3mm_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8082/3mm_time_00.html
+0.139000
+atax_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8083/atax_time_00.html
+0.022000
+bicg_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8084/bicg_time_00.html
+0.017000
+cholesky_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8085/cholesky_time_00.html
+0.072000
+doitgen_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8086/doitgen_time_00.html
+0.027000
+gemm_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8087/gemm_time_00.html
+0.000000
+gemver_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8088/gemver_time_00.html
+0.058000
+gesummv_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8089/gesummv_time_00.html
+0.009000
+mvt_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8090/mvt_time_00.html
+0.048000
+symm_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8091/symm_time_00.html
+0.017000
+syr2k_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8092/syr2k_time_00.html
+0.049000
+syrk_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8093/syrk_time_00.html
+0.000000
+trisolv_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8094/trisolv_time_00.html
+0.008000
+trmm_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8095/trmm_time_00.html
+0.016000
+durbin_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8096/durbin_time_00.html
+0.013000
+gramschmidt_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8097/gramschmidt_time_00.html
+0.036000
+lu_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8098/lu_time_00.html
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 59310)
+----------------------------------------
+0.008000
+ludcmp_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8099/ludcmp_time_00.html
+0.069000
+correlation_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8100/correlation_time_00.html
+0.033000
+covariance_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8101/covariance_time_00.html
+0.029000
+floyd-warshall_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8102/floyd-warshall_time_00.html
+0.020000
+nussinov_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8103/nussinov_time_00.html
+0.043000
+deriche_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8104/deriche_time_00.html
+0.017000
+adi_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8105/adi_time_00.html
+0.003000
+fdtd-2d_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8106/fdtd-2d_time_00.html
+0.036000
+jacobi-1d_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8107/jacobi-1d_time_00.html
+0.005000
+jacobi-2d_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8108/jacobi-2d_time_00.html
+0.042000
+seidel-2d_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8109/seidel-2d_time_00.html
+0.226000
+heat-3d_time_00.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8110/heat-3d_time_00.html
+0.060000
+2mm_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8111/2mm_time_01.html
+0.060000
+3mm_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8112/3mm_time_01.html
+0.090000
+atax_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8113/atax_time_01.html
+0.027000
+bicg_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8114/bicg_time_01.html
+0.018000
+cholesky_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8115/cholesky_time_01.html
+0.062000
+doitgen_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8116/doitgen_time_01.html
+0.024000
+gemm_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8117/gemm_time_01.html
+0.001000
+gemver_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8118/gemver_time_01.html
+0.059000
+gesummv_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8119/gesummv_time_01.html
+0.009000
+mvt_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8120/mvt_time_01.html
+0.043000
+symm_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8121/symm_time_01.html
+0.017000
+syr2k_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8122/syr2k_time_01.html
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 59565)
+----------------------------------------
+0.052000
+syrk_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8123/syrk_time_01.html
+0.000000
+trisolv_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8124/trisolv_time_01.html
+0.009000
+trmm_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8125/trmm_time_01.html
+0.018000
+durbin_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8126/durbin_time_01.html
+0.009000
+gramschmidt_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8127/gramschmidt_time_01.html
+0.033000
+lu_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8128/lu_time_01.html
+0.008000
+ludcmp_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8129/ludcmp_time_01.html
+0.075000
+correlation_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8130/correlation_time_01.html
+0.033000
+covariance_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8131/covariance_time_01.html
+0.033000
+floyd-warshall_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8132/floyd-warshall_time_01.html
+0.017000
+nussinov_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8133/nussinov_time_01.html
+0.053000
+deriche_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8134/deriche_time_01.html
+0.017000
+adi_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8135/adi_time_01.html
+0.004000
+fdtd-2d_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8136/fdtd-2d_time_01.html
+0.033000
+jacobi-1d_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8137/jacobi-1d_time_01.html
+0.004000
+jacobi-2d_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8138/jacobi-2d_time_01.html
+0.040000
+seidel-2d_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8139/seidel-2d_time_01.html
+0.207000
+heat-3d_time_01.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8140/heat-3d_time_01.html
+0.060000
+2mm_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8141/2mm_time_02.html
+0.036000
+3mm_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8142/3mm_time_02.html
+0.048000
+atax_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8143/atax_time_02.html
+0.018000
+bicg_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8144/bicg_time_02.html
+0.016000
+cholesky_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8145/cholesky_time_02.html
+0.031000
+doitgen_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8146/doitgen_time_02.html
+0.014000
+gemm_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8147/gemm_time_02.html
+0.001000
+gemver_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8148/gemver_time_02.html
+0.042000
+gesummv_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8149/gesummv_time_02.html
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 59843)
+----------------------------------------
+0.009000
+mvt_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8150/mvt_time_02.html
+0.043000
+symm_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8151/symm_time_02.html
+0.015000
+syr2k_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8152/syr2k_time_02.html
+0.046000
+syrk_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8153/syrk_time_02.html
+0.001000
+trisolv_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8154/trisolv_time_02.html
+0.004000
+trmm_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8155/trmm_time_02.html
+0.009000
+durbin_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8156/durbin_time_02.html
+0.015000
+gramschmidt_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8157/gramschmidt_time_02.html
+0.033000
+lu_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8158/lu_time_02.html
+0.003000
+ludcmp_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8159/ludcmp_time_02.html
+0.067000
+correlation_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8160/correlation_time_02.html
+0.013000
+covariance_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8161/covariance_time_02.html
+0.014000
+floyd-warshall_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8162/floyd-warshall_time_02.html
+0.015000
+nussinov_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8163/nussinov_time_02.html
+0.044000
+deriche_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8164/deriche_time_02.html
+0.011000
+adi_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8165/adi_time_02.html
+0.003000
+fdtd-2d_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8166/fdtd-2d_time_02.html
+0.035000
+jacobi-1d_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8167/jacobi-1d_time_02.html
+0.005000
+jacobi-2d_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8168/jacobi-2d_time_02.html
+0.038000
+seidel-2d_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8169/seidel-2d_time_02.html
+0.202000
+heat-3d_time_02.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8170/heat-3d_time_02.html
+0.044000
+2mm_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8171/2mm_time_03.html
+0.029000
+3mm_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8172/3mm_time_03.html
+0.052000
+atax_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8173/atax_time_03.html
+0.019000
+bicg_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8174/bicg_time_03.html
+0.020000
+cholesky_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8175/cholesky_time_03.html
+0.032000
+doitgen_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8176/doitgen_time_03.html
+0.014000
+gemm_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8177/gemm_time_03.html
+0.000000
+gemver_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8178/gemver_time_03.html
+0.056000
+gesummv_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8179/gesummv_time_03.html
+0.010000
+mvt_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8180/mvt_time_03.html
+0.037000
+symm_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8181/symm_time_03.html
+0.016000
+syr2k_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8182/syr2k_time_03.html
+0.041000
+syrk_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8183/syrk_time_03.html
+0.000000
+trisolv_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8184/trisolv_time_03.html
+0.007000
+trmm_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8185/trmm_time_03.html
+0.012000
+durbin_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8186/durbin_time_03.html
+0.010000
+gramschmidt_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8187/gramschmidt_time_03.html
+0.022000
+lu_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8188/lu_time_03.html
+0.005000
+ludcmp_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8189/ludcmp_time_03.html
+0.069000
+correlation_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8190/correlation_time_03.html
+0.014000
+covariance_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8191/covariance_time_03.html
+0.017000
+floyd-warshall_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8192/floyd-warshall_time_03.html
+0.017000
+nussinov_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8193/nussinov_time_03.html
+0.097000
+deriche_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8194/deriche_time_03.html
+0.014000
+adi_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8195/adi_time_03.html
+0.005000
+fdtd-2d_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8196/fdtd-2d_time_03.html
+0.038000
+jacobi-1d_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8197/jacobi-1d_time_03.html
+0.004000
+jacobi-2d_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8198/jacobi-2d_time_03.html
+0.032000
+seidel-2d_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8199/seidel-2d_time_03.html
+0.199000
+heat-3d_time_03.html_firefox
+Starting browser: /Applications/Firefox.app/Contents/MacOS/firefox http://localhost:8200/heat-3d_time_03.html
+0.058000
