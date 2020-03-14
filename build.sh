@@ -17,7 +17,14 @@ cd ..
 
 curl https://sh.rustup.rs -o rustup-init.sh
 sh rustup-init.sh
+rm rustup-init.sh
+export PATH="$HOME/.cargo/bin:$PATH"
 cargo --version
 
 cd wasabi
 cargo install --path .
+cd ..
+
+cd pywasm
+python setup.py install
+cd ..
