@@ -1,5 +1,5 @@
-# webassembly_tracer
-Code to generate the x86 translation of the webassembly trace for any program
+# WebAssembly-Tracer
+Code to generate the x86 translation of the webassembly trace for any program. Also contains the benchmarking results of WebAssembly vs native for the polybench suite
 
 # Demo
 
